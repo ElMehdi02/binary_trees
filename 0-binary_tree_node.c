@@ -5,6 +5,7 @@
  * @parent: A pointer to the parent of the node to create.
  * @value: The value to put in the new node.
  *
+ *
  * Return: If an error occurs - NULL.
  *         Otherwise - a pointer to the new node.
  */
